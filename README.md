@@ -106,6 +106,9 @@
 [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) | 最近看几门 Reinforcement Learning 的课，包括 （1）[Udacity 上 Michael Littman 的课](http://t.cn/RVWTkKO) （2）[UC Berkeley Pieter Abbeel 教授的 cs188](http://t.cn/RVWTkK0) （3）[AlphaGo 作者 David Silver 的公开课](http://t.cn/RAoX5Oz), 对比之下还是AlphaGo作者的课质量远高于其他人。
 [大数据：“人工特征工程+线性模型”的尽头](http://mli.github.io/2013/03/24/the-end-of-feature-engineering-and-linear-model/) | 
 [【牛津课程：深度学习NLP(2017)】《Deep Learning for Natural Language Processing》by Phil Blunsom [Oxford] ](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) | [课程资料](https://github.com/oxford-cs-deepnlp-2017/lectures)
+[深度学习简介与学习资料参考](http://peteryuan.net/deep-learning-intro/) | 很好的参考资料
+
+
 ## 公开课
 
 链接 | 说明 
