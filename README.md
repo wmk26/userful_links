@@ -1,3 +1,5 @@
+[toc]
+
 # 计算机科学
 
 ## 个人博客
@@ -468,6 +470,7 @@
 [如何冥想？2500年的智慧——荒岛十日记](http://www.dennythecow.com/?p=547) | 
 [坐享教程：最简单有效的大脑锻炼方式](http://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=504146098&idx=1&sn=6506c0f65799f9da8e5da1dde44cd323#rd) | 
 [坐享教程](http://zhibimo.com/books/xiaolai/zuo-xiang-qi-cheng) |
+[跑步和膝盖保护](https://www.douban.com/note/145562823/) | 和自己目前的状况比较相似，可以参考
 
 
 ## 其他
