@@ -6,7 +6,7 @@
     * [公开课](#公开课)
     * [资讯](#资讯)
     * [python](#python)
-    * [C&&C++](#cc++)
+    * [C&&C++](#cc)
     * [Java](#java)
     * [SHELL&AWK](#shellawk)
     * [Database](#database)
