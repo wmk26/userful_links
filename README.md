@@ -140,7 +140,34 @@
 [大数据：“人工特征工程+线性模型”的尽头](http://mli.github.io/2013/03/24/the-end-of-feature-engineering-and-linear-model/) | 
 [【牛津课程：深度学习NLP(2017)】《Deep Learning for Natural Language Processing》by Phil Blunsom [Oxford] ](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) | [课程资料](https://github.com/oxford-cs-deepnlp-2017/lectures)
 [深度学习简介与学习资料参考](http://peteryuan.net/deep-learning-intro/) | 很好的参考资料
-
+[TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/) | [系列文章](http://www.svds.com/introduction-to-trainspotting/)
+[What is the class of this image ? Discover the current state of the art in objects classification.](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
+[PaddlePaddle/book](https://github.com/PaddlePaddle/book) | 深度学习入门，使用paddlepaddle学习深度学习，有数据，有代码；
+[Deep Learning Resources](https://omtcyfz.github.io/deep-learning-resources.html) | 列举了一些相关课程及资源，值得参考；
+[arXiv sanitizer](http://www.arxiv-sanity.com/) | This code is currently running live at www.arxiv-sanity.com/, where it's serving 25,000+ Arxiv papers from Machine Learning (cs.[CV|AI|CL|LG|NE]/stat.ML) over the last ~3 years. 
+[reddit on ml](https://www.reddit.com/r/MachineLearning/) | 
+[CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/#syllabus) | [CS 294：深度增强学习，2017年春季学期](https://zhuanlan.zhihu.com/p/24721292?refer=intelligentunit)
+[斯坦福大学机器学习个人笔记完整版（附所有视频和字幕）](http://mooc.guokr.com/note/16274/) | cousera ng machine learning notes
+[我花了一年时间来学机器学习](http://mp.weixin.qq.com/s/akbCpy-6B7aszZsVwCCnLg) | 一些经验之谈，可以看看
+[Tinker With a Neural Network Right Here in Your Browser](http://playground.tensorflow.org) | 
+[数学公式的英文读法](http://www.hjenglish.com/new/p434728/) | 
+[深度学习岗位面试问题整理笔记](https://zhuanlan.zhihu.com/p/25005808) | 
+[令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913) | 
+[博士这五年——李沐](https://zhuanlan.zhihu.com/p/25099638?from=timeline) | 
+[TensorFlow and deep learning, without PhD(google)](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) | google出品
+[A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/) |  
+[A Neural Network in 11 lines of Python (Part 1)](A Neural Network in 11 lines of Python (Part 1)) | 
+[Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)) | 
+[Google软件工程师解读：深度学习的activation function哪家强？](http://weibo.com/ttarticle/p/show?id=2309351000224074706260119061) | 
+[CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/) | 
+[GAN学习指南：从原理入门到制作生成Demo，总共分几步？](http://www.leiphone.com/news/201701/yZvIqK8VbxoYejLl.html) | 
+[Understanding Deep Learning Models in NLP](http://nlp.yvespeirsman.be/blog/understanding-deeplearning-models-nlp/) | 
+[Python Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-year-v-2017-6033ae8c65c9#.j20et45jd) | 
+[Min Yang (杨敏)](http://minyang.me/) | 
+[深度学习：2016年的进展综述及2017年的预测](http://www.infoq.com/cn/articles/depth-2016-overview-2017-forecast) | 
+[MovieLens](https://grouplens.org/datasets/movielens/) | 电影打分数据集
+[Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | 
+[从算法到案例：推荐系统必读的10篇精选技术文章](http://www.infoq.com/cn/news/2015/12/Algorithm-case-10) | 
 
 ## 公开课
 
@@ -348,6 +375,7 @@
 [叶正盛：再次写给我们这些浮躁的程序员](http://blog.jobbole.com/499/) | 
 [对程序员而言，订阅哪些信息源最能让你跟上前沿?](对程序员而言，订阅哪些信息源最能让你跟上前沿?) | 
 [如何通过互联网出版一本小书](http://ftqq.com/2015/02/howto-publish-a-book-online/) | 里面提到使用gitbook写书，有时间可以尝试一下
+[职场通病之 - 高不成，低不就的尴尬](http://mp.weixin.qq.com/s/SY5ZGHPn8lvzR2q9FpW1wg) | 
 
 
 ## 面试
@@ -489,6 +517,8 @@
 [煎蛋小学堂：纸张也能玩出花来](http://www.tudou.com/programs/view/0HkTvjs2GF4/?resourceId=121441540_06_02_99) | 
 [【科幻】文曰小强读三体系列剪辑成电影](http://www.bilibili.com/video/av4564963/) | 
 [和《肖申克的救赎》相比，这部电影真实得让人不寒而栗！](http://mp.weixin.qq.com/s?__biz=MzIwOTI0MjA3NQ==&mid=2651647880&idx=1&sn=382701c50cffbd5c94723b3fbd24c9a3&scene=1&srcid=0728mdiCQp98SFtsgtAu9YiF&from=groupmessage&isappinstalled=0) | 
+[听雨声](http://www.rainymood.com/) | 
+[少数派](http://sspai.com/) | 
 
 
 ## 运动
@@ -535,6 +565,7 @@
 [怎样快速翻墙](http://blog.saymagic.cn/2014/08/19/%E6%80%8E%E6%A0%B7%E5%BF%AB%E9%80%9F%E7%BF%BB%E5%A2%99.html) | 
 [最新可用的google hosts文件。](https://github.com/racaljk/hosts) | 
 [2016 Google hosts 持续更新【更新于:2016-04-25】](http://laod.cn/hosts/2016-google-hosts.html) | 
+[GFW翻墙小结](https://wsgzao.github.io/post/fq/) | 
 
 
 ## 日语
