@@ -140,8 +140,8 @@
 [大数据：“人工特征工程+线性模型”的尽头](http://mli.github.io/2013/03/24/the-end-of-feature-engineering-and-linear-model/) | 
 [【牛津课程：深度学习NLP(2017)】《Deep Learning for Natural Language Processing》by Phil Blunsom [Oxford] ](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) | [课程资料](https://github.com/oxford-cs-deepnlp-2017/lectures)
 [深度学习简介与学习资料参考](http://peteryuan.net/deep-learning-intro/) | 很好的参考资料
-[TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/) | [系列文章](http://www.svds.com/introduction-to-trainspotting/)
-[What is the class of this image ? Discover the current state of the art in objects classification.](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
+[TensorFlow Image Recognition on a Raspberry Pi](http://svds.com/tensorflow-image-recognition-raspberry-pi/) | [系列文章](http://www.svds.com/introduction-to-trainspotting/) | 
+[What is the class of this image ? Discover the current state of the art in objects classification.](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html) | 
 [PaddlePaddle/book](https://github.com/PaddlePaddle/book) | 深度学习入门，使用paddlepaddle学习深度学习，有数据，有代码；
 [Deep Learning Resources](https://omtcyfz.github.io/deep-learning-resources.html) | 列举了一些相关课程及资源，值得参考；
 [arXiv sanitizer](http://www.arxiv-sanity.com/) | This code is currently running live at www.arxiv-sanity.com/, where it's serving 25,000+ Arxiv papers from Machine Learning (cs.[CV|AI|CL|LG|NE]/stat.ML) over the last ~3 years. 
