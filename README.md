@@ -174,7 +174,7 @@
 [文章索引::”机器学习方法“，"深度学习方法"原创系列](http://blog.csdn.net/xbinworld/article/details/44464663) | 
 [个性化推荐是不是伪命题](http://column.hongliangjie.com/%E4%B8%AA%E6%80%A7%E5%8C%96,%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/2016/04/07/personalization-or-not/) | 探讨了个性化推荐里面的EE问题
 [论推荐系统的Exploitation和Exploration](http://column.hongliangjie.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/2016/04/13/exploration/) | 
-[Semantic Question Matching with Deep Learning](https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning)
+[Semantic Question Matching with Deep Learning](https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning) | 
 [Image-to-Image Demo](https://affinelayer.com/pixsrv/) | [code](https://github.com/phillipi/pix2pix)
 [迎接自然语言处理新时代](http://www.hangli-hl.com/uploads/3/4/4/6/34465961/ccf_nlp_new_era.pdf) | 
 [普林斯顿大学教授Sanjeev Arora近日发表了一篇文章O网页链接 来简单介绍BP如何运行。这篇文章浅显易懂，比很多类似的Tutorial都要更加直观。](http://weibo.com/3193816967/EnYmWuOKS?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment) | 
@@ -538,8 +538,8 @@
 [听雨声](http://www.rainymood.com/) | 
 [少数派](http://sspai.com/) | 
 [2016，世界走向孤立的一年](http://mp.weixin.qq.com/s/uUsBb34iNXOTUkhwxBcaLw) | 写的不错，自己是否也可以借鉴一下，记录一下自己经历的大事件，然后写下自己的思考？
-[知乎2016年度一百问](https://club.zhihu.com/2017/top100/?utm_campaign=club2017&utm_source=weibo&utm_medium=social&utm_division=zhihu&utm_content=link)
-[lifehacker](http://lifehacker.com/)
+[知乎2016年度一百问](https://club.zhihu.com/2017/top100/?utm_campaign=club2017&utm_source=weibo&utm_medium=social&utm_division=zhihu&utm_content=link) | 
+[lifehacker](http://lifehacker.com/) | 
 
 
 
