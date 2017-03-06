@@ -168,6 +168,23 @@
 [MovieLens](https://grouplens.org/datasets/movielens/) | 电影打分数据集
 [Software Engineering at Google](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf) | 
 [从算法到案例：推荐系统必读的10篇精选技术文章](http://www.infoq.com/cn/news/2015/12/Algorithm-case-10) | 
+[Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.o0xg1phvw) | 
+[6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) |
+[Text Classification, Part I - Convolutional Networks](https://richliao.github.io/supervised/classification/2016/11/26/textclassifier-convolutional/)
+[文章索引::”机器学习方法“，"深度学习方法"原创系列](http://blog.csdn.net/xbinworld/article/details/44464663)
+[个性化推荐是不是伪命题](http://column.hongliangjie.com/%E4%B8%AA%E6%80%A7%E5%8C%96,%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/2016/04/07/personalization-or-not/) | 探讨了个性化推荐里面的EE问题
+[论推荐系统的Exploitation和Exploration](http://column.hongliangjie.com/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/2016/04/13/exploration/) | 
+[Semantic Question Matching with Deep Learning](https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning)
+[Image-to-Image Demo](https://affinelayer.com/pixsrv/) | [code](https://github.com/phillipi/pix2pix)
+[迎接自然语言处理新时代](http://www.hangli-hl.com/uploads/3/4/4/6/34465961/ccf_nlp_new_era.pdf)
+[普林斯顿大学教授Sanjeev Arora近日发表了一篇文章O网页链接 来简单介绍BP如何运行。这篇文章浅显易懂，比很多类似的Tutorial都要更加直观。](http://weibo.com/3193816967/EnYmWuOKS?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment)
+[可视化概率及统计学](http://students.brown.edu/seeing-theory/) | [对于学习统计与概率，我发现很多学生的障碍在于无法理解抽象的数学表达。最近常春藤名校布朗大学推出了一个非常棒的可视化概率及统计的学习网站，帮助学生交互式地学习概率及统计学基本概念。O网页链接 强烈推荐！](http://weibo.com/1657470871/ExiPWvX0F?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment#_rnd1488437117517)
+[Recent Advances in Distributed Machine Learning](http://www.dmtk.io/slides/distributedML-aaai2017.pdf) |  [微软亚洲研究院的刘铁岩等人近日在AAAI2017上做的有关优化以及大规模机器学习的Tutorial，"Recent Advances in Distributed Machine Learning"（Slides:O网页链接）很值得一看。里面对传统的优化算法，特别是一些理论特性以及分布式算法的相应理论特性都有一个比较详尽的总结。非常适合想快速了解这些领域的学者和工程师。另外，这个Tutorial还介绍了DMTK的一些情况，作为一个分布式计算平台的优缺点，还顺带比较了Spark和TensorFlow等流行框架。](http://weibo.com/3193816967/Evg5syj89?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment)
+[kaggle solutions](http://www.efimov-ml.com/) | [What are the best Kaggle solution blogs to learn machine learning?](https://www.quora.com/What-are-the-best-Kaggle-solution-blogs-to-learn-machine-learning)
+
+
+
+
 
 ## 公开课
 
@@ -237,6 +254,7 @@
 [Python爬虫进阶四之PySpider的用法](http://cuiqingcai.com/2652.html) | 
 [量化分析师的Python日记](https://uqer.io/community/share/54c89443f9f06c276f651a52) | 
 [Scipy Lecture Notes](http://www.scipy-lectures.org/) | [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159)，这里有很多推荐的。
+[Interactive Python is a project of Runestone Interactive. We host a growing number of Open Source, interactive textbooks you can use in a course. Written by award winning authors. Used by some of the best schoools](http://interactivepython.org/runestone/default/user/login) | 好资源 
 
 
 ## C&&C++
@@ -519,6 +537,11 @@
 [和《肖申克的救赎》相比，这部电影真实得让人不寒而栗！](http://mp.weixin.qq.com/s?__biz=MzIwOTI0MjA3NQ==&mid=2651647880&idx=1&sn=382701c50cffbd5c94723b3fbd24c9a3&scene=1&srcid=0728mdiCQp98SFtsgtAu9YiF&from=groupmessage&isappinstalled=0) | 
 [听雨声](http://www.rainymood.com/) | 
 [少数派](http://sspai.com/) | 
+[2016，世界走向孤立的一年](http://mp.weixin.qq.com/s/uUsBb34iNXOTUkhwxBcaLw) | 写的不错，自己是否也可以借鉴一下，记录一下自己经历的大事件，然后写下自己的思考？
+[知乎2016年度一百问](https://club.zhihu.com/2017/top100/?utm_campaign=club2017&utm_source=weibo&utm_medium=social&utm_division=zhihu&utm_content=link)
+[lifehacker](http://lifehacker.com/)
+
+
 
 
 ## 运动
